@@ -1,6 +1,6 @@
 # Wilson Law
 
-Chartered town planner (MRTPI), Hong Kong. I work on site appraisal and planning research, and I build Python tools to make that work faster and easier to check.
+Chartered town planner (MRTPI), based in Hong Kong. I work on site appraisal and planning research, and I build Python tools to make that work faster and easier to check.
 
 ## Planning Site Brief
 
